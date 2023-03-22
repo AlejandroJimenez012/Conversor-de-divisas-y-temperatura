@@ -1,4 +1,4 @@
-#Conversor de divisas y temperatura - Challenge Orecle Next Education (ONE)
+# Conversor de divisas y temperatura - Challenge Orecle Next Education (ONE)
 
 ### Indice
 
@@ -9,14 +9,14 @@
 3. [Como usar]()
 4. [Tecnologias utilizadas]()
 
-###Descripcion del proyecto
+### Descripcion del proyecto
 
 ------------
 
 
 Mi solución al challenge: "Crea tu propio conversor de moneda" de la formación Oracle Next Education(ONE) de Alura Latam y Oracle, en la especialidad de desarrollo backend.
 
-###Descripcion del Challenge
+### Descripcion del Challenge
 
 ------------
 
