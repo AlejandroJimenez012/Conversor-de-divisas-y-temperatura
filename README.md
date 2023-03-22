@@ -5,7 +5,7 @@
 ------------
 
 1. [Descripcion del proyecto](#descripcion-del-proyecto)
-2. [Descripcion del Challenge](#descripcion-del-desafio)
+2. [Descripcion del Challenge](#descripcion-del-challenge)
 3. [Como usar](#como-usar)
 4. [Tecnologias utilizadas](#tecnologias-utilizadas)
 
